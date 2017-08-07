@@ -6,14 +6,23 @@ categories:
 tags:
 - 心情
 - Hexo 初步了解
+description: 希望自己能 力学笃行 不断前进。
 ---
 
 个人博客在看了网上各种风格的教程,终于是建立起来了.
-希望自己能 力学笃行 不断前进
-
 Hexo API 常用命令整理.
-<!--more-->
+
 # 代码块
+## 生成新文章：路径(source /_posts / title.md)
+```
+hexo new "title"
+```
+
+### 生成新的页面，后面可在主题配置文件中配置页面
+```
+hexo new page "title"
+```
+
 ## 在文章中插入代码。 code
 
 ```
