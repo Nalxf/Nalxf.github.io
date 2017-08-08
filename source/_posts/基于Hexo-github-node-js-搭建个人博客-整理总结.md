@@ -7,12 +7,11 @@ categories:
 tags:
 - 心情
 - 整理总结
-description: 生命在于折腾，又把博客折腾到Hexo了。给Hexo点赞。
 ---
 
-
-
 附上 : [markdown文件的基本常用编写语法:同参考链接](http://www.cnblogs.com/liugang-vip/p/6337580.html)
+
+<!-- more -->
 
 #### 首先为什么想搭建一个属于自己的博客?
 
