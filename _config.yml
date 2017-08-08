@@ -7,7 +7,7 @@ title: Nalxf
 subtitle: 个人博客在看了网上各种风格的教程,终于是建立起来了. 希望自己能 力学笃行 不断前进                        #网站副标题
 description: Nalxf 个人博客 hexo+github+node.js 李学峰 希望自己能 力学笃行 不断前进                      #网站描述 SEO
 author: 李学峰
-language:                         #网站使用的语言
+language: zh-Hans                        #网站使用的语言
 timezone:
 
 # URL
